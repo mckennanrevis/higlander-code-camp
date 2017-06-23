@@ -1,0 +1,89 @@
+.navbar-brand {
+    color: lightgreen!important;
+}
+
+.navbar-brand span {
+    color: green;
+}
+
+.icon-bar {
+    background-color: lightgreen!important;
+}
+
+#site-title{
+    text-align: center!important;
+    color: lightgreen!important;
+    background-color: #333;
+    margin-top: -20px;
+    padding: 15px 0px;
+}
+
+#three-images .container{
+    background-color: #555;
+    margin-top: -10px;
+    color: white;
+    padding-top: 15px;
+}
+
+#three-images img {
+    width: 100%;
+}
+
+#three-images h4 {
+    text-align: center;
+    color: green;
+}
+
+#three-images p {
+    text-align: justify;
+}
+
+#three-images button {
+    margin: 5px 0px;
+    background-color: lightgreen;
+    border: none;
+}
+
+#three-images hr {
+    border-top: 5px solid #222
+}
+
+#input .container {
+    background-color: #444
+}
+
+#input h3 {
+    color: green;
+}
+
+#input p {
+    color: white;
+    text-align: center;
+}
+
+#input #middle-hr {
+    border-top: 3px dotted #eee
+}
+
+#input #text-box {
+    background-color: lightgreen;
+    border: none;
+}
+
+#input #button {
+    background-color: green;
+    border: none;
+}
+#video {
+    background-color: #555;
+}
+
+#footer {
+    background-color: #222;
+    color: white;
+    text-align: center
+}
+
+img, iframe {
+    box-shadow: 4px 5px 5px #000;
+}
